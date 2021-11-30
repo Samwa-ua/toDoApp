@@ -1,0 +1,18 @@
+body {
+  background-color: blueviolet;
+}
+
+h1 {
+  padding-top: 50px;
+  text-align: center;
+}
+.main-window {
+  margin: auto;
+  height: 400px;
+  width: 600px;
+  background-color: burlywood;
+}
+
+.entry {
+  padding-left: 50px;
+}
